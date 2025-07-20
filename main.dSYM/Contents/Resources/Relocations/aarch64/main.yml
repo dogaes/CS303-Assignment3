@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/doga/Desktop/data structures/CS303_Assignment3/main'
+relocations:     []
+...
